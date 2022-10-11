@@ -1,0 +1,60 @@
+@charset "utf-8";
+body{
+    line-height: 1.8;
+    font-size: 18px;
+    font-family: '나눔고딕', '맑은 고딕', 돋움, sans-serif;
+}
+
+.sec1 {
+    text-align: center;
+    background-color: rgb(170, 242, 255);
+}
+
+h1 {
+    font-size: 30px;
+    background-color: #000;
+    color: #fff;
+}
+
+#alt1 {
+    color: red;
+    font-size: 16px;
+}
+
+.reservation {
+    font-size: 25px;
+    text-decoration: none;
+    background-color: rgb(255, 102, 0);
+    color: #fff;
+}
+.reservation:hover {
+    background-color: blue;
+    text-decoration: line-through;
+    color: rgb(255, 123, 123);
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    color: #333;
+}
+
+h3 {
+    font-weight: normal;
+    text-align: right;
+    background-color: rgb(9, 77, 65);
+    color: #fff;
+}
+
+.list{
+    background-color: orange;
+}
+
+#liTitle {
+    font-size: 20px;
+}
+
+#alt2 {
+    color: red;
+    font-size: 16px;
+}
