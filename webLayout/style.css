@@ -178,20 +178,20 @@ main > .imgGrid > .bgImg{
     z-index: 100;
 }
 main .imgGrid .box1 { 
-    background-image: url(https://placekitten.com/1200/500) var(--bgImg);
+    background: url(https://placekitten.com/1100/500) var(--bgImg);
     grid-column: 1 / 3; grid-row: 1 / 3;
 }
 main .imgGrid .box2 { 
-    background-image: url(https://placekitten.com/800/500) var(--bgImg);
+    background: url(https://placekitten.com/800/500) var(--bgImg);
     grid-column: 3 / 4; grid-row: 1 / 2;
 }
 main .imgGrid .box3 { 
-    background-image: url(https://placekitten.com/1200/500) var(--bgImg);
+    background: url(https://placekitten.com/1000/500) var(--bgImg);
     grid-column: 4 / 5; grid-row: 1 / 2;
 
 }
 main .imgGrid .box4 { 
-    background-image: url(https://placekitten.com/1200/500) var(--bgImg);
+    background: url(https://placekitten.com/900/500) var(--bgImg);
     grid-column: 3 / 5; grid-row: 2 / 3;
 }
 main .imgGrid .box5 { 
@@ -199,11 +199,11 @@ main .imgGrid .box5 {
     grid-column: 1 / 3; grid-row: 3 / 4;
 }
 main .imgGrid .box6 { 
-    background-image: url(https://placekitten.com/1000/1000) var(--bgImg);
+    background: url(https://placekitten.com/1000/1000) var(--bgImg);
     grid-column: 3 / 4; grid-row: 3 / 4;
 }
 main .imgGrid .box7 { 
-    background-image: url(https://placekitten.com/1200/700) var(--bgImg);
+    background: url(https://placekitten.com/1200/700) var(--bgImg);
     grid-column: 4 / 5; grid-row: 3 / 4;
 }
 
